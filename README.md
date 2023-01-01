@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Data Science and ML**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Mubeen-Zaki](https://github.com/Mubeen-Zaki)
+- 👨‍💻 All of my projects are available at [https://github.com/Mubeen-Zaki](https://github.com/Mubeen-Zaki?tab=repositories)
 
 - 📫 How to reach me **mubeenzaki31@gmail.com**
 
