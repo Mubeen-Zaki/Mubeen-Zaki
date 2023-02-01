@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mubeen</h1>
 <h3 align="center">CS Undergrad and aspiring Data Scientist from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mubeen-zaki&label=Profile%20views&color=0e75b6&style=flat" alt="mubeen-zaki" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mubeen-zaki" alt="mubeen-zaki" /></a> </p>
 
 - 🔭 I’m currently working on [Final_Year_Project](https://github.com/Mubeen-Zaki/Final_Year_Project)
